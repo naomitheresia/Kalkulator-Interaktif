@@ -205,3 +205,7 @@ Dibuat untuk memenuhi Tugas Akhir Percobaan 5: JavaScript Dasar pada Praktikum P
 ---
 
 **Penting**: Aplikasi memerlukan koneksi internet untuk memuat Tailwind CSS dari CDN guna tampilan optimal.
+
+## Kontak
+
+GitHub: [@naomitheresia](https://github.com/naomitheresia)
